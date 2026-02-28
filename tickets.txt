@@ -1,0 +1,39 @@
+Ticket 1:
+Issue: Shipment delayed due to incorrect warehouse scan.
+Category: Logistics
+Resolution: Correct warehouse code and reprocess shipment.
+
+Ticket 2:
+Issue: Payment failed during checkout.
+Category: Payment
+Resolution: Retry payment and verify bank authorization.
+
+Ticket 3:
+Issue: Tracking ID not updating for 48 hours.
+Category: Tracking
+Resolution: Refresh tracking service and sync logistics API.
+
+Ticket 4:
+Issue: Delivery failed due to wrong address.
+Category: Logistics
+Resolution: Contact customer for address confirmation and reschedule delivery.
+
+Ticket 5:
+Issue: System outage affecting multiple shipments.
+Category: System Failure
+Resolution: Escalate to engineering team and notify affected customers.
+
+Ticket 6:
+Issue: Customer received damaged product.
+Category: Delivery Issue
+Resolution: Initiate return process and issue replacement shipment.
+
+Ticket 7:
+Issue: Invoice amount mismatch.
+Category: Billing
+Resolution: Verify invoice details and correct billing entry.
+
+Ticket 8:
+Issue: Shipment stuck at customs clearance.
+Category: Logistics
+Resolution: Coordinate with customs broker and update documentation.
